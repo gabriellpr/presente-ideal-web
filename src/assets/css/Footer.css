@@ -1,0 +1,25 @@
+@font-face {
+    font-family: presenteIdeal;
+    src: url('../fonts/Matador\ de\ Nimes.ttf');
+  }
+  
+  .footer-content {
+    display: flex;
+    color: rgb(219, 99, 99);
+    margin-left: 80%;;
+    margin-top: -5%;
+
+  }
+  
+  p {
+    font-family: presenteIdeal;
+    font-size: 2.5em;
+    padding-left: 10px;
+  }
+  
+  .svg {
+    width: 200px;
+    height: 200px;
+    fill: rgb(219, 99, 99);
+  }
+  
